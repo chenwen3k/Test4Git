@@ -9,6 +9,7 @@ public class Main extends Activity {
 		// TODO Auto-generated method stub
 		super.onCreate(savedInstanceState);
 		setContentView(R.layout.main_activity);
+		// on master
 	}
 }
 
