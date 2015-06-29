@@ -1,0 +1,9 @@
+*.class
+.idea/
+.settings/
+bin/
+gen/
+.classpath
+.project
+config.properties
+
